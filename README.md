@@ -37,8 +37,6 @@ We would be focusing on these accounts below;
   
 * Supa Account (February only)
 
-![](DATASET.JPG)
-
 ## Trends and Insights
 
 * Account opening declined in the month of February by 15%: this could be as result of cash crunch, as some customer may consider not to open as they may be unable to fund it.​
