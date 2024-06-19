@@ -37,7 +37,7 @@ We would be focusing on these accounts below;
   
 * Supa Account (February only)
 
-![](DATASET)
+![](DATASET.JPG)
 
 ## Trends and Insights
 
