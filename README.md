@@ -11,6 +11,10 @@ The purpose of this project is to provide analysis on issues detected, trends as
 This project shows the various account types, status of these accounts and the domiciled branch code of these accounts in January and February.
 We would also see the recurring trends, defects and possible solutions to curb these defects throughout this stated period.
 
+## Tools Used
+-MS Excel for Data Cleaning [Download here](https://microsoft.com)
+- Microsoft Power BI
+
 ## Account Types
 We would be focusing on these accounts below;
 * COLLECTIONS ACCOUNT
